@@ -60,7 +60,7 @@
     }
 }
 
-@media screen and (min-width: 1728px) {
+@media screen and (min-width: 1600px) {
     .contato {
         padding: 2em 18vw;
     }
